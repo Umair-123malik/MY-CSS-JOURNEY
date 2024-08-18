@@ -1,0 +1,25 @@
+#box{
+    color:blue;
+}
+.heading{
+    color:red;
+}
+button{
+    color: blue;
+}
+p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+
+}
+a{
+    text-decoration: none;
+
+}
+#h1{
+    font-weight: lighter;
+}
+

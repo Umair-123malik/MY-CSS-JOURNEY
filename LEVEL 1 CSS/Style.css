@@ -1,0 +1,26 @@
+h1{
+    color:yellow;
+}
+/* This is separate file method  */
+p {
+    color:blue;
+}
+button{
+    color:aqua;
+    background-color: greenyellow;
+    /* changing the background coolor of the button */
+}
+body{
+    background-color: #ffff00;
+    /* by using hex code  */
+    /* by using color systems  */
+}
+/* give color to the background of the website  */
+/* now i using the universal selector */
+/* *{
+    color:red;
+} */
+ /* Now i want to give color to the id tag  */
+ #headingtwo {
+    color:antiquewhite;
+ }
